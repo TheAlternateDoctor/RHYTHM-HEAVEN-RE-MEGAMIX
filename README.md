@@ -1,5 +1,5 @@
-# RHYTHM HEAVEN RE-MEGAMIX
-a massive CTGP-esque modpack for Rhythm Heaven Megamix, containing mods from tons of members of the community. This mod aims to replace every single slot with something custom (including endless games thanks to patataofcourse!) to create a brand new campaign. 
+# Rhythm Heaven Re-Megamix
+A sequel-like modpack for Rhythm Heaven Megamix, containing mods from tons of members of the community. This mod aims to replace every single slot with something custom (including endless games thanks to patataofcourse!) to create a brand new campaign. 
 
 ## Cool Features!
 - 50+ Custom games!
@@ -27,3 +27,6 @@ a massive CTGP-esque modpack for Rhythm Heaven Megamix, containing mods from ton
 ## Wanna help?
 Join the RHModding Discord community!
 https://discord.gg/brBVnkgPAY
+
+## Building
+TODO
